@@ -16,11 +16,11 @@
         "css-loader": "^6.3.0",
         "style-loader": "^3.3.0",
         "webpack": "^5.9.0",
-        "webpack-dev-server": "^3.11.0"
+        "webpack-dev-server": "^4.0.0"
     },
     "devDependencies": {
-        "@oclif/config": "^1.17.0",
-        "@oclif/test": "^1.2.7",
+        "@oclif/config": "^1.18.17",
+        "@oclif/test": "^3.0.0",
         "@types/mocha": "^8.0.4",
         "@types/node": "^14.14.7",
         "@types/node-fetch": "^2.5.7",
