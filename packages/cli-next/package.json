@@ -17,7 +17,7 @@
         "@types/cpx": "^1.5.2",
         "@types/npm": "^2.0.31",
         "@types/tar": "^4.0.4",
-        "archiver": "^5.1.0",
+        "archiver": "^7.0.0",
         "chalk": "^4.1.0",
         "cli-ux": "^5.5.1",
         "clipboardy": "^2.3.0",
