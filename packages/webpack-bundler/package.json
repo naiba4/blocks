@@ -15,7 +15,7 @@
         "babel-loader": "^8.2.2",
         "css-loader": "^6.3.0",
         "style-loader": "^3.3.0",
-        "webpack": "^5.9.0",
+        "webpack": "^5.94.0",
         "webpack-dev-server": "^3.11.0"
     },
     "devDependencies": {
