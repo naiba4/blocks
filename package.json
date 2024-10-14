@@ -21,7 +21,7 @@
         "pretty-quick": "^2.0.1",
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
-        "release-it": "13.6.6"
+        "release-it": "17.8.0"
     },
     "resolutions": {
         "typescript": "~3.7.5"
