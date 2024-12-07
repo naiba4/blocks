@@ -29,7 +29,7 @@
         "@typescript-eslint/parser": "^4.9.1",
         "eslint": "^7.15.0",
         "eslint-plugin-import": "^2.19.1",
-        "mocha": "^5.2.0",
+        "mocha": "^11.0.1",
         "node-fetch": "^2.6.1",
         "nyc": "^15.1.0",
         "ts-node": "8",
