@@ -16,10 +16,10 @@
         "css-loader": "^6.3.0",
         "style-loader": "^3.3.0",
         "webpack": "^5.9.0",
-        "webpack-dev-server": "^3.11.0"
+        "webpack-dev-server": "^4.7.3"
     },
     "devDependencies": {
-        "@oclif/config": "^1.17.0",
+        "@oclif/config": "^1.18.17",
         "@oclif/test": "^1.2.7",
         "@types/mocha": "^8.0.4",
         "@types/node": "^14.14.7",
@@ -27,9 +27,9 @@
         "@types/webpack-dev-server": "^3.11.1",
         "@typescript-eslint/eslint-plugin": "^4.9.1",
         "@typescript-eslint/parser": "^4.9.1",
-        "eslint": "^7.15.0",
+        "eslint": "^9.0.0",
         "eslint-plugin-import": "^2.19.1",
-        "mocha": "^5.2.0",
+        "mocha": "^11.0.1",
         "node-fetch": "^2.6.1",
         "nyc": "^15.1.0",
         "ts-node": "8",
